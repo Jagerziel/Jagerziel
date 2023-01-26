@@ -1,4 +1,8 @@
-### Hi there 👋
+# About Me | Software Engineer
+
+Experience in front-end and back-end development.  A highly analytical, innovative, and strategic thinker who formulates and implements unique solutions to complex problems.  As a former multinational insurance broking and consulting professional, I approach software development with a keen perspective on business application as well as current and future needs. I have worked with complex multinationals in the Education, Food and Beverage, Financial, Real Estate, and Retail sectors as well as domestic Renewable Energy.  
+
+**Let's build something special!**
 
 <!--
 **Jagerziel/Jagerziel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
